@@ -1,3 +1,30 @@
+### mvp:
+
+- https://portfolio-website.squarerobin.now.sh (first portfolio)
+- https://myportfolio-xi-cyan.now.sh (portfolio - from scratch, a work in progress)
+     
+
+### stretch: 
+ Redeployed:
+
+- https://nasa-photo-of-the-day-m19jfxtk8.now.sh (Nasa Photo of the Day)
+- https://rickandmorty-nu.now.sh (Rick and Morty Fan Site)
+- https://github-usercard-three-xi.now.sh (Github followers)
+
+
+
+### features added to portfolio:
+https://zeit.co/squarerobin/myportfolio/2kmbaw5tc
+//todo add screenshot here from https://zeit.co/squarerobin/myportfolio/2kmbaw5tc
+//todo add react-todo, shopping-cart, React-Testing-TV-Show
+//todo implement react in my portfolio
+// todo add github contribution graph to it
+
+
+ 
+
+
+
 # Module Project: Deploying Web Apps - Portfolio Piece
 
 In this module you will use what you've learned about deploying a web application, and deploy one of the apps you've built so that you can add it to your portfolio page
