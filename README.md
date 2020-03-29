@@ -17,8 +17,7 @@
 https://zeit.co/squarerobin/myportfolio/2kmbaw5tc
 //todo add screenshot here from https://zeit.co/squarerobin/myportfolio/2kmbaw5tc
 //todo add react-todo, shopping-cart, React-Testing-TV-Show
-//todo implement react in my portfolio
-// todo add github contribution graph to it
+
 
 
  
